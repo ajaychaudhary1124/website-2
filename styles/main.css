@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: Roboto;
+  font-size: em;
+}
+</style>
+</head>
+<body>
+
+<h1>Zain's Online Portfolio Home Page</h1>
+<ul>
+<a href="pages/assigments.html">Assignments</a>
+<a href="pages/experience.html">Experience</a>
+</ul>
+
+</body>
+</html>
